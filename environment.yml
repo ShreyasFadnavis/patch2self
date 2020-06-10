@@ -1,0 +1,10 @@
+name: patch2self
+
+dependencies:
+- dipy
+- numpy
+- scipy
+- ipython
+- matplotlib
+- jupyter
+- fury
