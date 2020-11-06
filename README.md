@@ -15,7 +15,7 @@ We provide support for 4 different types of regressors:
 ## API: To denoise any diffusion data via Patch2Self:
 ```
 # load the 4D DWI data 
-denoised_data = patch2self(data, model='ols')
+denoised_data = patch2self(data, model='ridge')
 
 # one can save the denoised data in the Nifti file format using DIPY:
 from dipy.io.image import save_nifti
