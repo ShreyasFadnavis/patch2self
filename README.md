@@ -1,6 +1,10 @@
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Logo_for_Conference_on_Neural_Information_Processing_Systems.svg/1200px-Logo_for_Conference_on_Neural_Information_Processing_Systems.svg.png" width=200>
+
 # Patch2Self: Denoising Diffusion MRI with Self-Supervised Learning
 
-This repo demonstrates a framework (Patch2Self) for denoising Diffusion MRI, as described in the paper. 
+This repo demonstrates a framework (Patch2Self) for denoising Diffusion MRI, as described in the paper:
+[NeurIPS Spotlight](https://papers.nips.cc/paper/2020/file/bc047286b224b7bfa73d4cb02de1238d-Paper.pdf)
 
 The main model to perform the denoising is contained in: 
 `model/patch2self.py`
