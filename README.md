@@ -1,8 +1,9 @@
-## This repo is outdated and work in progress. Please use the implementation in [DIPY](http://dipy.org/) (>=1.4.0) for the best possible implementation of Patch2Self.
+# This repo is `Outdated` and work in progress. Please use the implementation in here: [DIPY](https://dipy.org/documentation/1.5.0/examples_built/denoise_patch2self/#example-denoise-patch2self) (>=1.4.0) for the best possible implementation of Patch2Self.
 
-Video on how to use: [YouTube](https://www.youtube.com/watch?v=S4MoCox98M8&t=1s)
 
-Medium Article for detailed instructions: [Blogpost Link](https://shreyasfadnavis.medium.com/patch2self-self-supervised-denoising-via-statistical-independence-4601fda38c20)
+## Video on how to use: [YouTube](https://www.youtube.com/watch?v=S4MoCox98M8&t=1s)
+
+## Medium Article for detailed instructions: [Blogpost Link](https://shreyasfadnavis.medium.com/patch2self-self-supervised-denoising-via-statistical-independence-4601fda38c20)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Logo_for_Conference_on_Neural_Information_Processing_Systems.svg/1200px-Logo_for_Conference_on_Neural_Information_Processing_Systems.svg.png" width=200>
