@@ -1,4 +1,4 @@
-## This repo is outdated and work in progress. Please use the implementation in [DIPY](http://dipy.org/) (>=1.4.0) for the best possible implementation of Patch2Self.
+## This repo is outdated and work in progress. Please use the implementation in [DIPY]([http://dipy.org/](https://docs.dipy.org/stable/examples_built/preprocessing/denoise_patch2self.html#sphx-glr-examples-built-preprocessing-denoise-patch2self-py)) (>=1.4.0) for the best possible implementation of Patch2Self.
 
 Video on how to use: [YouTube](https://www.youtube.com/watch?v=S4MoCox98M8&t=1s)
 
